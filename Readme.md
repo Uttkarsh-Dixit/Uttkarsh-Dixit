@@ -1,6 +1,6 @@
 <h1 align="center" >Hi 👋, I'm Uttkarsh Dixit</h1>
 
-<h4 align="center">20-year-old tech enthusiast. I am a pre-final year B.Tech CSE student at Graphic Era Hill University and am familiar with Front-End Web Development. </h4>
+<h4 align="center">20-year-old tech enthusiast. I am a pre-final year B.Tech CSE student at Graphic Era Hill University and am familiar with Front-End Web Development. I have studied data structures using C language. </h4>
 <br>
 
 - 🔭 I’m currently working on a **React Project**
